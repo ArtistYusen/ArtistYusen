@@ -2,6 +2,8 @@
 
 ✨ You've come to see me again :D ✨
 
+- 📫 How to reach me: ysyszheng@gmail.com
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArtistYusen&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
