@@ -2,9 +2,11 @@
 
 ✨ You've come to see me again :D ✨
 
+- 📖 I am currently a sophomore undergraduate student at **_SJTU SEIEE_**, majoring in **_Information Security_** and minoring in **_Finance_**.
+
 - 📫 How to reach me: ysyszheng@gmail.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArtistYusen&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArtistYusen&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats). -->
 
 <!--
 **ArtistYusen/ArtistYusen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
