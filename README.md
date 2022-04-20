@@ -2,7 +2,7 @@
 
 ✨ You've come to see me again :D ✨
 
-- 📖 I am currently a sophomore undergraduate student at **_SJTU SEIEE_**, majoring in **_Information Security_** and minoring in **_Finance_**.
+- 📖 I am currently a sophomore undergraduate student at **SJTU SEIEE**, majoring in **Network Information Security (NIS)** and minoring in **Finance**.
 
 - 📫 How to reach me: ysyszheng@gmail.com
 
