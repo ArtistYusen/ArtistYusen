@@ -2,7 +2,7 @@
 
 ✨ You've come to see me again :D ✨
 
-- 📖 I am currently a sophomore undergraduate student at [Shanghai Jiaotong University (SJTU)](https://en.sjtu.edu.cn/), [School of Electronic Information and Electrical Engineering (SEIEE)](https://english.seiee.sjtu.edu.cn/), majoring in [Network Information Security (NIS)](https://english.seiee.sjtu.edu.cn/english/list/2106-1-20.htm) and minoring in [Finance](https://www.acem.sjtu.edu.cn/en/).
+- 📖 I am currently a sophomore undergraduate student at [School of Electronic Information and Electrical Engineering (SEIEE)](https://english.seiee.sjtu.edu.cn/), [Shanghai Jiaotong University (SJTU)](https://en.sjtu.edu.cn/). majoring in [Network Information Security (NIS)](https://english.seiee.sjtu.edu.cn/english/list/2106-1-20.htm) and minoring in [Finance](https://www.acem.sjtu.edu.cn/en/).
 
 - 📫 How to reach me: ysyszheng@gmail.com
 
