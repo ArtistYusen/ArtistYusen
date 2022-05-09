@@ -2,9 +2,9 @@
 
 ✨ You've come to see me again :D ✨
 
-- 📖 I am currently a sophomore undergraduate student at School of Electronic Information and Electrical Engineering (SEIEE), Shanghai Jiaotong University (SJTU). majoring in Network Information Security (NIS) and minoring in Finance.
-
-- 📫 How to reach me: ysyszheng@gmail.com
+- 📖 I’m currently a sophomore undergraduate student at School of Electronic Information and Electrical Engineering (SEIEE), Shanghai Jiaotong University (SJTU). I’m majoring in Network Information Security (NIS) and minoring in Finance.
+- 🔭 I’m currently interested in computer vision, machine learning theory, data visualization and empirical analysis.
+- 📫 How to reach me: ysyszheng@gmail.com.
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArtistYusen&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats). -->
 
