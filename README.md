@@ -2,7 +2,7 @@
 
 ✨ You've come to see me again :D ✨
 
-- 📖 I’m currently a sophomore undergraduate student at School of Electronic Information and Electrical Engineering (SEIEE), Shanghai Jiaotong University (SJTU). I’m majoring in Network Information Security (NIS) and minoring in Finance.
+- 📖 I’m currently a sophomore undergraduate student at School of Electronic Information and Electrical Engineering (SEIEE), Shanghai Jiaotong University (SJTU). I’m majoring in Network Information Security (NIS) and minoring in Finance (offered by Antai College of Economics and Management (ACEM)).
 - 🔭 I’m currently interested in computer vision, machine learning theory, data visualization and empirical analysis.
 - 📫 How to reach me: ysyszheng@gmail.com.
 
